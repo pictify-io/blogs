@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Driving User Generated Content (UGC): A Comprehensive Guide",
+    "hero_image": "https://res.cloudinary.com/diroilukd/image/upload/v1719427716/blogs/Person_with_laptop_and_smartphone_dvhmun.jpg",
+    "tags": [
+      "Content Marketing"
+    ],
+    "status": "published",
+    "author": "Suyash thakur",
+    "file_name": "user-generated-content.md"
+  },
+  {
+    "title": "How to Create Certificates from HTML Templates",
+    "hero_image": "https://res.cloudinary.com/diroilukd/image/upload/v1719427716/blogs/Person_with_laptop_and_smartphone_dvhmun.jpg",
+    "tags": [
+      "Programming"
+    ],
+    "status": "published",
+    "author": "Suyash thakur",
+    "file_name": "certificate-image-from-html.md"
+  }
+]
