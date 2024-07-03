@@ -25,6 +25,12 @@ const randomString = (length) => {
   return result;
 }
 
+const readingTime = (text) => {
+  const wordsPerMinute = 200;
+  const textLength = text.split(' ').length;
+  return Math.ceil(textLength / wordsPerMinute);
+}
+
 
 const publishBlog = async () => {
   await client.connect();
@@ -36,7 +42,8 @@ const publishBlog = async () => {
     const blogData = {
       _id: randomString(24),
       uid: randomString(12),
-      actice: true,
+      slug: blog.title.toLowerCase().replace(/ /g, '-'),
+      active: true,
       title: blog.title,
       content: blogContent,
       status: 'published',
@@ -44,6 +51,9 @@ const publishBlog = async () => {
       heroImage: blog.hero_image,
       author: blog.author,
       createdAt: new Date(),
+      type: blog.type || 'article',
+      isFeatured: blog.is_featured || false,
+      readingTime: readingTime(blogContent),
     };
 
     blog.status = 'published';

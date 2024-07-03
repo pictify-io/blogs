@@ -7,7 +7,9 @@
     ],
     "status": "published",
     "author": "Suyash thakur",
-    "file_name": "user-generated-content.md"
+    "file_name": "user-generated-content.md",
+    "type": "article",
+    "is_featured": true
   },
   {
     "title": "How to Create Certificates from HTML Templates",
@@ -17,6 +19,7 @@
     ],
     "status": "published",
     "author": "Suyash thakur",
-    "file_name": "certificate-image-from-html.md"
+    "file_name": "certificate-image-from-html.md",
+    "type": "guide"
   }
 ]
