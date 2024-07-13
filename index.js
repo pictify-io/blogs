@@ -39,8 +39,10 @@ const publishBlog = async () => {
   for (const blog of blogsToPublish) {
     const blogPath = path.join(blogDirectory, blog.file_name);
     const blogContent = fs.readFileSync(blogPath, 'utf8');
+    const _id = blog._id || randomString(24);
+
     const blogData = {
-      _id: randomString(24),
+      _id: _id,
       uid: randomString(12),
       slug: blog.title.toLowerCase().replace(/ /g, '-'),
       active: true,
@@ -59,7 +61,12 @@ const publishBlog = async () => {
     blog.status = 'published';
 
     try {
-      await blogsCollection.insertOne(blogData);
+      if (blog._id) {
+        await blogsCollection.updateOne({ _id: blog._id }, { $set: blogData });
+      } else {
+        await blogsCollection.insertOne(blogData);
+      }
+      blog._id = _id;
       fs.writeFileSync(path.join(__dirname, 'blog-status.json'), JSON.stringify(blogStatus, null, 2));
       console.log(`Blog published: ${blog.title}`);
     } catch (err) {
