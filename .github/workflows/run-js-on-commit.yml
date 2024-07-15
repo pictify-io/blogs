@@ -35,5 +35,5 @@ jobs:
       - name: Run script
         run: node index.js # Assuming the script to run is index.js
         env:
-          MONO_URI: ${{ secrets.MONO_URI }}
+          MONGO_URI: ${{ secrets.MONGO_URI }}
           DB_NAME: ${{ secrets.DB_NAME }}
