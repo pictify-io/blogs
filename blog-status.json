@@ -5,10 +5,11 @@
     "tags": [
       "Content Marketing"
     ],
-    "status": "draft",
+    "status": "published",
     "author": "Suyash thakur",
     "file_name": "user-generated-content.md",
-    "type": "article"
+    "type": "article",
+    "_id": "FeJhmRaou4yXeXp14oOAltaX"
   },
   {
     "title": "How to Create Certificates from HTML Templates",
@@ -16,10 +17,11 @@
     "tags": [
       "Programming"
     ],
-    "status": "draft",
+    "status": "published",
     "author": "Suyash thakur",
     "file_name": "how-to-create-certificate-from-html.md",
-    "type": "guide"
+    "type": "guide",
+    "_id": "mJPmEoKSVqjOMcPMv0EMrJO7"
   },
   {
     "title": "How to create real time snapshot of your reports using Python and Pictify",
@@ -27,10 +29,11 @@
     "tags": [
       "Programming"
     ],
-    "status": "draft",
+    "status": "published",
     "author": "Pictify Engineering",
     "file_name": "how-to-capture-real-time-snapshot-of-reports.md",
-    "type": "guide"
+    "type": "guide",
+    "_id": "SfOdwQPVVEaUTu7pdXwIsqrW"
   },
   {
     "title": "Why you should use custom and personalized email banners",
@@ -38,11 +41,12 @@
     "tags": [
       "Email Marketing"
     ],
-    "status": "draft",
+    "status": "published",
     "author": "Suyash Thakur",
     "file_name": "why-custom-email-banner-increase-the-ctr.md",
     "type": "article",
-    "is_featured": true
+    "is_featured": true,
+    "_id": "DOxuzq4TmtP4CKl7VB1m9OH1"
   },
   {
     "title": "How to create a thumbnail generator using Node.js",
@@ -50,10 +54,11 @@
     "tags": [
       "Programming"
     ],
-    "status": "draft",
+    "status": "published",
     "author": "Pictify Engineering",
     "file_name": "building-a-thumbnail-generator.md",
-    "type": "guide"
+    "type": "guide",
+    "_id": "LAJii1MWHUlrANtbAJXFDzuB"
   },
   {
     "title": "Why visual content matters in online learning",
@@ -61,9 +66,10 @@
     "tags": [
       "Content Creation"
     ],
-    "status": "draft",
+    "status": "published",
     "author": "Suyash Thakur",
     "file_name": "why-visual-content-matters-in-online-learning.md",
-    "type": "article"
+    "type": "article",
+    "_id": "55QzUsJCqV93i7Udbmq4TIQ2"
   }
 ]
