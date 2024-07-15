@@ -6,6 +6,19 @@ User-generated content (UGC) is a powerful tool for marketers. It can help you b
 
 User-generated content is any form of content that is created by users of a product or service. This can include photos, videos, reviews, social media posts, and more. UGC is a powerful marketing tool because it is authentic, relatable, and trustworthy. Consumers are more likely to trust recommendations from other consumers than they are from brands.
 
+## Examples -:
+
+**Spotify Wrapped**
+![Screenshot of Spotify Wrapped](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Gi2QJ6LIhCE10x6e2QICcA.jpeg)
+
+**LEGO Challenge**
+![Screenshot of LEGO Challenge](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*vg5sUONNKFrkAf4vv5Ej5A.png)
+
+**HackerRank Badges**
+![Screenshot of HackerRank Badges](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*YrBH_P5E8sQZPEq0leanmg.png)
+
+
+
 ## Why is user-generated content important?
 
 User-generated content is important for a number of reasons. First and foremost, it can help you build trust with your audience. Consumers are more likely to trust recommendations from other consumers than they are from brands. UGC is also a great way to increase engagement with your audience. When consumers see themselves reflected in your marketing materials, they are more likely to engage with your brand.
