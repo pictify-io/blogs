@@ -1,11 +1,11 @@
 [
   {
     "title": "Driving User Generated Content (UGC): A Comprehensive Guide",
-    "hero_image": "https://res.cloudinary.com/diroilukd/image/upload/v1719427716/blogs/Person_with_laptop_and_smartphone_dvhmun.jpg",
+    "hero_image": "https://res.cloudinary.com/diroilukd/image/upload/q_auto,f_auto/v1719427716/blogs/Person_with_laptop_and_smartphone_dvhmun.jpg",
     "tags": [
       "Content Marketing"
     ],
-    "status": "published",
+    "status": "draft",
     "author": "Suyash thakur",
     "file_name": "user-generated-content.md",
     "type": "article",
@@ -13,11 +13,11 @@
   },
   {
     "title": "How to Create Certificates from HTML Templates",
-    "hero_image": "https://res.cloudinary.com/diroilukd/image/upload/v1720884386/blogs/3954831_dxwlxl.jpg",
+    "hero_image": "https://res.cloudinary.com/diroilukd/image/upload/q_auto,f_auto/v1720884386/blogs/3954831_dxwlxl.jpg",
     "tags": [
       "Programming"
     ],
-    "status": "published",
+    "status": "draft",
     "author": "Suyash thakur",
     "file_name": "how-to-create-certificate-from-html.md",
     "type": "guide",
@@ -25,11 +25,11 @@
   },
   {
     "title": "How to create real time snapshot of your reports using Python and Pictify",
-    "hero_image": "https://res.cloudinary.com/diroilukd/image/upload/v1720983854/blogs/carlos-muza-hpjSkU2UYSU-unsplash_o7fb6r.jpg",
+    "hero_image": "https://res.cloudinary.com/diroilukd/image/upload/q_auto,f_auto/v1720983854/blogs/carlos-muza-hpjSkU2UYSU-unsplash_o7fb6r.jpg",
     "tags": [
       "Programming"
     ],
-    "status": "published",
+    "status": "draft",
     "author": "Pictify Engineering",
     "file_name": "how-to-capture-real-time-snapshot-of-reports.md",
     "type": "guide",
@@ -37,11 +37,11 @@
   },
   {
     "title": "Why you should use custom and personalized email banners",
-    "hero_image": "https://res.cloudinary.com/diroilukd/image/upload/v1720984054/blogs/stephen-phillips-hostreviews-co-uk-3Mhgvrk4tjM-unsplash_mtjyog.jpg",
+    "hero_image": "https://res.cloudinary.com/diroilukd/image/upload/q_auto,f_auto/v1720984054/blogs/stephen-phillips-hostreviews-co-uk-3Mhgvrk4tjM-unsplash_mtjyog.jpg",
     "tags": [
       "Email Marketing"
     ],
-    "status": "published",
+    "status": "draft",
     "author": "Suyash Thakur",
     "file_name": "why-custom-email-banner-increase-the-ctr.md",
     "type": "article",
@@ -50,11 +50,11 @@
   },
   {
     "title": "How to create a thumbnail generator using Node.js",
-    "hero_image": "https://res.cloudinary.com/diroilukd/image/upload/v1721070161/blogs/Designer_c7ax5n.png",
+    "hero_image": "https://res.cloudinary.com/diroilukd/image/upload/q_auto,f_auto/v1721070161/blogs/Designer_c7ax5n.png",
     "tags": [
       "Programming"
     ],
-    "status": "published",
+    "status": "draft",
     "author": "Pictify Engineering",
     "file_name": "building-a-thumbnail-generator.md",
     "type": "guide",
@@ -62,11 +62,11 @@
   },
   {
     "title": "Why visual content matters in online learning",
-    "hero_image": "https://res.cloudinary.com/diroilukd/image/upload/v1721069822/blogs/emmanuel-ikwuegbu-MSX3O-Sqa8U-unsplash_fiuyd5.jpg",
+    "hero_image": "https://res.cloudinary.com/diroilukd/image/upload/q_auto,f_auto/v1721069822/blogs/emmanuel-ikwuegbu-MSX3O-Sqa8U-unsplash_fiuyd5.jpg",
     "tags": [
       "Content Creation"
     ],
-    "status": "published",
+    "status": "draft",
     "author": "Suyash Thakur",
     "file_name": "why-visual-content-matters-in-online-learning.md",
     "type": "article",

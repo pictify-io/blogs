@@ -63,19 +63,19 @@ Here are a few examples of how visual content can be used in online learning:
 
 1. **[Coursera](https://coursera.org)** 
 
-<img src="https://res.cloudinary.com/diroilukd/image/upload/v1721069301/blogs/0d1779e4-f3b2-4f12-94a5-1b7ccadec1f3.png" alt="Coursera" width="500"/>
+<img src="https://res.cloudinary.com/diroilukd/image/upload/q_auto,f_auto/v1721069301/blogs/0d1779e4-f3b2-4f12-94a5-1b7ccadec1f3.png" alt="Coursera" width="500"/>
 
 Coursera offers a wide range of online courses that incorporate visual content such as videos, quizzes, and interactive exercises to engage learners.
 
 2. **[Khan Academy](https://www.khanacademy.org/)**
 
-<img src="https://res.cloudinary.com/diroilukd/image/upload/v1721069515/blogs/d288ed03-dc17-46b4-a427-9ea54726829e.png" alt="Khan Academy" width="500"/>
+<img src="https://res.cloudinary.com/diroilukd/image/upload/q_auto,f_auto/v1721069515/blogs/d288ed03-dc17-46b4-a427-9ea54726829e.png" alt="Khan Academy" width="500"/>
 
  Khan Academy uses a combination of videos, images, and interactive simulations to teach a variety of subjects, from math and science to history and art.
 
 3. **[edX](https://www.edx.org/)** 
 
-<img src="https://res.cloudinary.com/diroilukd/image/upload/v1721069708/blogs/c7843e39-d8ba-41d1-bfd8-66f15d3418aa.png" alt="edX" width="500"/>
+<img src="https://res.cloudinary.com/diroilukd/image/upload/q_auto,f_auto/v1721069708/blogs/c7843e39-d8ba-41d1-bfd8-66f15d3418aa.png" alt="edX" width="500"/>
 
 edX provides online courses from top universities that feature high-quality videos, interactive exercises, and discussion forums to facilitate learning and collaboration.
 

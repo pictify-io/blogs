@@ -36,16 +36,16 @@ Here are a few examples of custom email banners to inspire you:
 
 1. **Sale announcement**: Use a banner to announce a sale or promotion and entice your audience to shop now. Include a discount code or special offer to encourage them to click. Personalize the banner with the location of the recipient to make it more relevant.
 
-![Sale announcement](https://res.cloudinary.com/diroilukd/image/upload/v1720897999/blogs/fb01edeb-085d-4c7a-8267-6b2ebcd89801.png)
+![Sale announcement](https://res.cloudinary.com/diroilukd/image/upload/q_auto,f_auto/v1720897999/blogs/fb01edeb-085d-4c7a-8267-6b2ebcd89801.png)
 
 2. **Onboarding email**: Use a banner in your onboarding emails to welcome new subscribers and introduce them to your brand. Include a personalized message and a clear CTA to encourage them to explore your products or services.
 
-![Onboarding email](https://res.cloudinary.com/diroilukd/image/upload/w_400/v1720899809/blogs/5ea992ec55c37c5c75009e7e_welcome-headspace_ydjcrx_1_dfwu5a.png)
+![Onboarding email](https://res.cloudinary.com/diroilukd/image/upload/q_auto,f_auto/w_400/v1720899809/blogs/5ea992ec55c37c5c75009e7e_welcome-headspace_ydjcrx_1_dfwu5a.png)
 
 3. **Reactivation email**: Use a banner in your reactivation emails to entice inactive subscribers to engage with your brand again. Include a special offer or discount code to encourage them to click and make a purchase. Personalize 
 the email with user-specific data to make it more relevant.
 
-![Reactivation email](https://res.cloudinary.com/diroilukd/image/upload/w_400/v1720900883/blogs/Untitled_design_1_1_ualpkl.png)
+![Reactivation email](https://res.cloudinary.com/diroilukd/image/upload/q_auto,f_auto/w_400/v1720900883/blogs/Untitled_design_1_1_ualpkl.png)
 
 ## Conclusion
 

@@ -16,9 +16,9 @@ Creating custom thumbnails has several benefits:
 
 Before we get started, make sure you have the following prerequisites:
 
-1. **Node.js**: Make sure you have Node.js installed on your machine. You can download Node.js from the [official website](https://nodejs.org/){:target="_blank"}.
+1. **Node.js**: Make sure you have Node.js installed on your machine. You can download Node.js from the [official website](https://nodejs.org/).
 
-2. **Pictify API key**: Sign up for a free account on the [Pictify website](https://pictify.io/){:target="_blank"} to get your API key.
+2. **Pictify API key**: Sign up for a free account on the [Pictify website](https://pictify.io/) to get your API key.
 
 3. **Axios package**: Install the `axios` package by running the following command in your terminal:
 
