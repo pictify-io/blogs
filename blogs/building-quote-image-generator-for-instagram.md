@@ -175,9 +175,10 @@ To run the quote image generator, execute:
 node quoteGenerator.js
 ```
 Example output:
-```
+```bash
 Quote image generated: https://media.pictify.io/u5sw1-1723140865874.png
 ```
+
 ![Example Quote Image](https://media.pictify.io/3pv15-1723142230533.png)
 
 This will output a URL to your generated quote image, which you can then download or use in your Instagram posts.

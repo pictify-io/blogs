@@ -35,7 +35,7 @@ npm init -y
 
 Create a new file `cardGenerator.js` with this boilerplate:
 
-```javascript:cardGenerator.js
+```javascript
 const axios = require('axios');
 const ejs = require('ejs');
 const cheerio = require('cheerio');
@@ -49,7 +49,7 @@ const apiKey = 'YOUR_PICTIFY_API_KEY';
 
 Create `cardTemplate.ejs` with the following content:
 
-```html:cardTemplate.ejs
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -118,7 +118,7 @@ Create `cardTemplate.ejs` with the following content:
 
 Add a function to fetch and extract metadata from a given URL:
 
-```javascript:cardGenerator.js
+```javascript
 async function getMetadata(url) {
     try {
         const response = await axios.get(url);
@@ -141,7 +141,7 @@ async function getMetadata(url) {
 
 Add a function to generate the Twitter Card using Pictify API:
 
-```javascript:cardGenerator.js
+```javascript
 async function generateTwitterCard(metadata) {
     try {
         const html = await ejs.renderFile('cardTemplate.ejs', metadata);
@@ -166,7 +166,7 @@ async function generateTwitterCard(metadata) {
 
 Add a main function to run the Twitter Card generator:
 
-```javascript:cardGenerator.js
+```javascript
 async function main(url) {
     const metadata = await getMetadata(url);
     if (metadata) {
