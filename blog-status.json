@@ -71,5 +71,27 @@
     "file_name": "why-visual-content-matters-in-online-learning.md",
     "type": "article",
     "_id": "55QzUsJCqV93i7Udbmq4TIQ2"
+  },
+  {
+    "title": "Building a Quote Image Generator for Instagram",
+    "hero_image": "https://res.cloudinary.com/diroilukd/image/upload/v1723143937/blogs/Designer_1_jht0ui.png",
+    "tags": [
+      "Programming"
+    ],
+    "status": "draft",
+    "author": "Pictify Engineering",
+    "file_name": "building-quote-image-generator-for-instagram.md",
+    "type": "guide"
+  },
+  {
+    "title": "Building a Twitter Card Generator with Node.js",
+    "hero_image": "https://res.cloudinary.com/diroilukd/image/upload/v1723143935/blogs/Designer_2_xnfpd6.png",
+    "tags": [
+      "Programming"
+    ],
+    "status": "draft",
+    "author": "Pictify Engineering",
+    "file_name": "building-twitter-card-generator.md",
+    "type": "guide"
   }
 ]
