@@ -78,7 +78,7 @@
     "tags": [
       "Programming"
     ],
-    "status": "published",
+    "status": "draft",
     "author": "Pictify Engineering",
     "file_name": "building-quote-image-generator-for-instagram.md",
     "type": "guide",
@@ -90,7 +90,7 @@
     "tags": [
       "Programming"
     ],
-    "status": "published",
+    "status": "draft",
     "author": "Pictify Engineering",
     "file_name": "building-twitter-card-generator.md",
     "type": "guide",
