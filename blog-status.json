@@ -78,10 +78,11 @@
     "tags": [
       "Programming"
     ],
-    "status": "draft",
+    "status": "published",
     "author": "Pictify Engineering",
     "file_name": "building-quote-image-generator-for-instagram.md",
-    "type": "guide"
+    "type": "guide",
+    "_id": "jc9i1g6CSRcbokJqlQS1loCT"
   },
   {
     "title": "Building a Twitter Card Generator with Node.js",
@@ -89,9 +90,10 @@
     "tags": [
       "Programming"
     ],
-    "status": "draft",
+    "status": "published",
     "author": "Pictify Engineering",
     "file_name": "building-twitter-card-generator.md",
-    "type": "guide"
+    "type": "guide",
+    "_id": "Z7WOSMN1XuVbFqmCNuJQosDH"
   }
 ]
