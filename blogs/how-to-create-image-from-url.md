@@ -113,7 +113,7 @@ node index.js
 
 ## Creating Image from url without code
 
-We have a free online tool to create image from url without code [here](https://pictify.io/tools/url-to-image)
+We have a free online tool to create image from url without code [here](https://pictify.io/tools/url-to-image-generator)
 
 1. Go to [pictify.io](https://pictify.io)
 2. Click on the "Tools" tab
