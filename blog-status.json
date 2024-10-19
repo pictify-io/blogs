@@ -107,5 +107,16 @@
     "file_name": "how-to-create-image-from-url.md",
     "type": "guide",
     "_id": "iJmG5un88atWZbhh1F01G7Ux"
+  },
+  {
+    "title": "Optimizing Images for SEO: A Step-by-Step Guide to Improve Your Website's Performance",
+    "hero_image": "https://res.cloudinary.com/diroilukd/image/upload/v1729342895/blogs/Designer_6_urrsx8.png",
+    "tags": [
+      "SEO"
+    ],
+    "status": "draft",
+    "author": "Suyash Thakur",
+    "file_name": "image-optimization-seo-guid.md",
+    "type": "article"
   }
 ]
