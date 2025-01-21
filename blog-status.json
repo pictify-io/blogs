@@ -45,7 +45,7 @@
     "author": "Suyash Thakur",
     "file_name": "why-custom-email-banner-increase-the-ctr.md",
     "type": "article",
-    "is_featured": true,
+    "is_featured": false,
     "_id": "DOxuzq4TmtP4CKl7VB1m9OH1"
   },
   {
@@ -119,5 +119,17 @@
     "file_name": "image-optimization-seo-guid.md",
     "type": "article",
     "_id": "B7A4q5PZHC8ejTVRPhkLLKuO"
+  },
+  {
+    "title": "10 Best HTML to Image API Use Cases for Developers",
+    "hero_image": "https://assets.seobotai.com/pictify.io/678ddf6480cdd949980060b0-1737352711596.jpg",
+    "tags": [
+      "Programming"
+    ],
+    "status": "draft",
+    "author": "Suyash Thakur",
+    "file_name": "10-best-html-to-image-api-use-cases-for-developers.md",
+    "is_featured": true,
+    "type": "guide"
   }
 ]
