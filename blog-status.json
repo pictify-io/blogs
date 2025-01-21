@@ -126,10 +126,11 @@
     "tags": [
       "Programming"
     ],
-    "status": "draft",
+    "status": "published",
     "author": "Suyash Thakur",
     "file_name": "10-best-html-to-image-api-use-cases-for-developers.md",
     "is_featured": true,
-    "type": "guide"
+    "type": "guide",
+    "_id": "QWyxeoqmSHlcA63i4C6Z2cy2"
   }
 ]
