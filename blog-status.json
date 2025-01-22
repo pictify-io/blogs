@@ -138,9 +138,10 @@
     "tags": [
       "Programming"
     ],
-    "status": "draft",
+    "status": "published",
     "author": "Suyash Thakur",
     "file_name": "how-to-generate-social-media-cards-using-html-to-image-api.md",
-    "type": "guide"
+    "type": "guide",
+    "_id": "PX8iZZIVlNOeYza32YnDltcd"
   }
 ]
