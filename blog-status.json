@@ -45,7 +45,6 @@
     "author": "Suyash Thakur",
     "file_name": "why-custom-email-banner-increase-the-ctr.md",
     "type": "article",
-    "is_featured": false,
     "_id": "DOxuzq4TmtP4CKl7VB1m9OH1"
   },
   {
@@ -132,5 +131,16 @@
     "is_featured": true,
     "type": "guide",
     "_id": "QWyxeoqmSHlcA63i4C6Z2cy2"
+  },
+  {
+    "title": "How to generate social media cards using HTML to Image API",
+    "hero_image": "https://assets.seobotai.com/pictify.io/678eff040118902285bbccb7-1737429088985.jpg",
+    "tags": [
+      "Programming"
+    ],
+    "status": "draft",
+    "author": "Suyash Thakur",
+    "file_name": "how-to-generate-social-media-cards-using-html-to-image-api.md",
+    "type": "guide"
   }
 ]
